@@ -1,0 +1,85 @@
+        .card {
+            display: inline-block;
+            flex-direction: column;
+            border: 1px solid black;
+            border-radius: 10px;
+            box-shadow: 5px 5px 10px hsl(0, 0%, 30%, 0.8);
+            max-width: 250px;
+            padding: 20px;
+            margin: 10px;
+            /* justify-content: center; */
+            /* align-items: center; */
+            text-align: center;
+        }
+        
+        .card img {
+            width: 200px;
+            height: 200px;
+            border-radius: 10px;
+            margin: 0px auto;
+        }
+        
+        .Std {
+            display: inline-block;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 32px;
+            font-weight: bolder;
+            padding: 20px;
+            margin: 20px;
+            border: 1px solid blue;
+            max-width: 250px;
+        }
+        
+        .wel {
+            background-color: green;
+            padding: 20px;
+            font-family: arial;
+            color: white;
+            font-size: 50px;
+        }
+        
+        .No {
+            background-color: red;
+            padding: 20px;
+            font-family: arial;
+            color: white;
+            font-size: 50px;
+        }
+        
+        .container {
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            /* box-shadow: 5px 5px 10px; */
+        }
+        
+        #count {
+            font-size: 10em;
+            margin-top: 0px;
+        }
+        
+        #btn1 {
+            padding: 10px;
+            border-radius: 10px;
+            border: none;
+            background-color: aqua;
+            color: white;
+            margin-right: 10px;
+        }
+        
+        #btn2 {
+            padding: 10px 30px;
+            border-radius: 10px;
+            border: none;
+            background-color: aqua;
+            color: white;
+            margin-right: 10px;
+        }
+        
+        #btn3 {
+            padding: 10px;
+            border-radius: 10px;
+            border: none;
+            background-color: aqua;
+            color: white;
+            margin-right: 10px;
+        }
